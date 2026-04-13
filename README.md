@@ -2,7 +2,7 @@
 
 Ever had a midnight idea that just wouldn’t let you sleep? 🌙
 
-I was scrolling through Instagram recently and saw a few reels of people clapping to trigger their smart home setups. It immediately hit that nostalgia button—taking me back to the first time I watched Iron Man and dreamed of having my own JARVIS.
+I was scrolling through Instagram recently and saw a few reels of people clapping to trigger their smart home setups. It immediately hit that nostalgia button taking me back to the first time I watched Iron Man and dreamed of having my own JARVIS.
 
 Instead of tossing and turning, I decided to hop onto my Linux machine and build my own version.
 
